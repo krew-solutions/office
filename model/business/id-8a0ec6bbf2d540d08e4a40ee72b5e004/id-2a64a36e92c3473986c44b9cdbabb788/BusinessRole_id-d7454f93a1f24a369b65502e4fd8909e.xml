@@ -1,0 +1,7 @@
+<archimate:BusinessRole
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Ведущий Аналитик"
+    id="id-d7454f93a1f24a369b65502e4fd8909e">
+  <profiles
+      href="folder.xml#id-f61e555100354e66b4a977c5148a9d3f"/>
+</archimate:BusinessRole>

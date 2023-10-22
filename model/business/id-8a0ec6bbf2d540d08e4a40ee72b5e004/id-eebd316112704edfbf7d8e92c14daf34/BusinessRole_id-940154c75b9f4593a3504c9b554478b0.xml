@@ -1,0 +1,7 @@
+<archimate:BusinessRole
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Team B Lead"
+    id="id-940154c75b9f4593a3504c9b554478b0">
+  <profiles
+      href="folder.xml#id-2989d0755b7d4654a89c7dcbac1596a1"/>
+</archimate:BusinessRole>

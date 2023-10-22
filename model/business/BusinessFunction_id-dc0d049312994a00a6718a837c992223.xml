@@ -1,0 +1,5 @@
+<archimate:BusinessFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Sprint Retrospective"
+    id="id-dc0d049312994a00a6718a837c992223"
+    documentation="The purpose of Nexus Sprint Planning is to coordinate the activities of all Scrum Teams within a Nexus for a single Sprint. Appropriate representatives from each Scrum Team and the Product Owner meet to plan the Sprint.&#xD;&#xA;&#xD;&#xA;The result of Nexus Sprint Planning is:&#xD;&#xA;- a Nexus Sprint Goal that aligns with the Product Goal and describes the purpose that will be achieved by the Nexus during the Sprint&#xD;&#xA;- a Sprint Goal for each Scrum Team that aligns with the Nexus Sprint Goal&#xD;&#xA;- a single Nexus Sprint Backlog that represents the work of the Nexus toward the Nexus Sprint Goal and makes cross-team dependencies transparent&#xD;&#xA;- a Sprint Backlog for each Scrum Team, which makes transparent the work they will do in support of the Nexus Sprint Goal&#xD;&#xA;&#xD;&#xA;https://www.scrum.org/resources/nexus-guide"/>

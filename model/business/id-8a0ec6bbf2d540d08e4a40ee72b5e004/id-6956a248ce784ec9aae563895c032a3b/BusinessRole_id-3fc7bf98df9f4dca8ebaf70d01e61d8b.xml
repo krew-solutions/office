@@ -1,0 +1,7 @@
+<archimate:BusinessRole
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Тестировщик 1"
+    id="id-3fc7bf98df9f4dca8ebaf70d01e61d8b">
+  <profiles
+      href="folder.xml#id-e157524d65084b9fa880ade4000f8160"/>
+</archimate:BusinessRole>

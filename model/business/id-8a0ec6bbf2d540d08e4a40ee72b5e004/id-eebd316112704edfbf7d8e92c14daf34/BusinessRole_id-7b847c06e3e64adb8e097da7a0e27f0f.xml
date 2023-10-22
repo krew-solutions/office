@@ -1,0 +1,7 @@
+<archimate:BusinessRole
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Data Science 2"
+    id="id-7b847c06e3e64adb8e097da7a0e27f0f">
+  <profiles
+      href="folder.xml#id-8919dc5394234af2b98aab3e7ce3cb5f"/>
+</archimate:BusinessRole>

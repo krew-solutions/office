@@ -1,0 +1,7 @@
+<archimate:BusinessRole
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Team A Lead"
+    id="id-90f2de34190847409fedeaf90b41f995">
+  <profiles
+      href="folder.xml#id-2989d0755b7d4654a89c7dcbac1596a1"/>
+</archimate:BusinessRole>

@@ -1,0 +1,8 @@
+<archimate:BusinessRole
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Junior Frontend-разработчик"
+    id="id-8d7b328a3e8b42b0b44c10d0b4eef432"
+    documentation="Верстальщик">
+  <profiles
+      href="folder.xml#id-1255515a4cec457d9d52661d01dd8058"/>
+</archimate:BusinessRole>

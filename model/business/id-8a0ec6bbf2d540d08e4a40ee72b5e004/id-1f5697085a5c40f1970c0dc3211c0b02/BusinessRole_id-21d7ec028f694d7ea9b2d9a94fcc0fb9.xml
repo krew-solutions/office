@@ -1,0 +1,7 @@
+<archimate:BusinessRole
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Fullstack-разработчик 1"
+    id="id-21d7ec028f694d7ea9b2d9a94fcc0fb9">
+  <profiles
+      href="folder.xml#id-ad5e6e6f5b644a4e9bb1b43f2e0ead48"/>
+</archimate:BusinessRole>

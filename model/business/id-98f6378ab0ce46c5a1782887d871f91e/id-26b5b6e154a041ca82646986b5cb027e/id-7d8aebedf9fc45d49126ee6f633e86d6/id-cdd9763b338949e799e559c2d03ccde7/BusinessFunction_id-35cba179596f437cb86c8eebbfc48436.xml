@@ -1,0 +1,5 @@
+<archimate:BusinessFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="CTR (Cross-Team Refinement)"
+    id="id-35cba179596f437cb86c8eebbfc48436"
+    documentation="1) выявить зависимости&#xD;&#xA;2) опредеить команду&#xD;&#xA;&#xD;&#xA;Nexus - многокомандный (масштабируемый) Scrum от Ken Schwaber (сооснователь Scrum).&#xD;&#xA;- https://www.scrum.org/resources/nexus-guide&#xD;&#xA;&#xD;&#xA;Ответы на вопросы можно подсматривать в https://less.works/ru/less/framework/introduction - у них много общего, но качество изложения в LESS получше.&#xD;&#xA;&#xD;&#xA;Управление кросс-командными зависимостями:&#xD;&#xA;- https://www.scrum.org/resources?search=backlog&amp;field_resource_tags_target_id=All&amp;type=71&#xD;&#xA;- https://www.scrum.org/resources/visualizing-nexus-sprint-backlog&#xD;&#xA;- https://www.scrum.org/resources/cross-team-refinement-nexus&#xD;&#xA;&#xD;&#xA;"/>

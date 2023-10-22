@@ -1,0 +1,7 @@
+<archimate:BusinessRole
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Embedded Developer 2"
+    id="id-b6a70df2be584711bc344dc23b2f3725">
+  <profiles
+      href="folder.xml#id-e8b568b429e140e2aa727c5777c73260"/>
+</archimate:BusinessRole>

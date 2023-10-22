@@ -1,0 +1,7 @@
+<archimate:BusinessRole
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="DevOps 1"
+    id="id-3ffa082d8dc8493983e526300935096b">
+  <profiles
+      href="folder.xml#id-16f61931250b4c73b6cfe0e4df1ab006"/>
+</archimate:BusinessRole>

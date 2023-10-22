@@ -1,0 +1,46 @@
+<archimate:ArchimateModel
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Office"
+    id="id-01ca134a7ea1437eb49d166352e8b712"
+    version="5.0.0">
+  <profiles
+      name="Fullstack Developer"
+      id="id-ad5e6e6f5b644a4e9bb1b43f2e0ead48"
+      conceptType="BusinessRole"/>
+  <profiles
+      name="Team Lead"
+      id="id-2989d0755b7d4654a89c7dcbac1596a1"
+      conceptType="BusinessRole"/>
+  <profiles
+      name="Data Science"
+      id="id-8919dc5394234af2b98aab3e7ce3cb5f"
+      conceptType="BusinessRole"/>
+  <profiles
+      name="Embedded Developer"
+      id="id-e8b568b429e140e2aa727c5777c73260"
+      conceptType="BusinessRole"/>
+  <profiles
+      name="Frontend Developer"
+      id="id-1255515a4cec457d9d52661d01dd8058"
+      conceptType="BusinessRole"/>
+  <profiles
+      name="Mobile Developer"
+      id="id-918823f3b3c641b481d484bb3b247a89"
+      conceptType="BusinessRole"/>
+  <profiles
+      name="GIS Developer"
+      id="id-f73baec17be64b9b8b5d73eae266394e"
+      conceptType="BusinessRole"/>
+  <profiles
+      name="Requirements Engineer"
+      id="id-f61e555100354e66b4a977c5148a9d3f"
+      conceptType="BusinessRole"/>
+  <profiles
+      name="Tester"
+      id="id-e157524d65084b9fa880ade4000f8160"
+      conceptType="BusinessRole"/>
+  <profiles
+      name="DevOps"
+      id="id-16f61931250b4c73b6cfe0e4df1ab006"
+      conceptType="BusinessRole"/>
+</archimate:ArchimateModel>

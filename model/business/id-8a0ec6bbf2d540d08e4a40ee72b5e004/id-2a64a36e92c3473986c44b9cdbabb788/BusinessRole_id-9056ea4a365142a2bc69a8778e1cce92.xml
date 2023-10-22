@@ -1,0 +1,7 @@
+<archimate:BusinessRole
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Системный аналитик 1"
+    id="id-9056ea4a365142a2bc69a8778e1cce92">
+  <profiles
+      href="folder.xml#id-f61e555100354e66b4a977c5148a9d3f"/>
+</archimate:BusinessRole>

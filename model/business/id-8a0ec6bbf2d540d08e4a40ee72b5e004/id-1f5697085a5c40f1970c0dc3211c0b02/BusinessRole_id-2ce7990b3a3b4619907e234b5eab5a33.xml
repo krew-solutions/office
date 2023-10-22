@@ -1,0 +1,7 @@
+<archimate:BusinessRole
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Android-разработчик"
+    id="id-2ce7990b3a3b4619907e234b5eab5a33">
+  <profiles
+      href="folder.xml#id-918823f3b3c641b481d484bb3b247a89"/>
+</archimate:BusinessRole>
